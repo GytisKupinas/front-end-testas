@@ -1,0 +1,38 @@
+body {
+
+}
+
+main {
+display: inline-block;
+width: 1900px;
+margin-top: 100px;
+margin-left: calc(50% - 950px);
+}
+
+.left-co {
+width: 40%;
+float: left;
+background-color: yellow;
+}
+
+.rigth-co {
+    width: 60%;
+    float: left;
+    background-color: violet;
+}
+
+.main-title {
+    font-size: 25px;
+    color: #3651FB;
+}
+
+.paragraf {
+color: turquoise;
+
+}
+
+.form {
+
+    
+}
+
