@@ -10,14 +10,29 @@ margin-left: calc(50% - 950px);
 }
 
 .left-co {
-width: 50%;
+width: 40%;
 float: left;
 background-color: yellow;
 }
 
 .rigth-co {
-    width: 50%;
+    width: 60%;
     float: left;
     background-color: violet;
+}
+
+.main-title {
+    font-size: 25px;
+    color: #3651FB;
+}
+
+.paragraf {
+color: turquoise;
+
+}
+
+.form {
+
+    
 }
 
