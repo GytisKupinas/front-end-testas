@@ -1,1 +1,23 @@
+.form-row.flex-row-buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 40px 0;
+}
 
+button {
+    padding: 10px 40px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+button:first-of-type {
+    background-color: blue;
+    color: white
+}
+
+button:last-of-type {
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+}
